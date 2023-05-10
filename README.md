@@ -9,7 +9,7 @@
 ## Setup
 ```
 npm install -g truffle
-git clone git@github.com:naz46/blockchain-voting-dapp.git
+git clone git@github.com:dalmatian315/blockchain-voting-dapp.git
 cd blockchain-voting-dapp
 npm install
 npm run dev
